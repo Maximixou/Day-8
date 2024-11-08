@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+}
+h1{
+    color: blue;
+    text-transform: uppercase;
+
+}
+video{
+    
+    border: 1 px solid blue;
+    padding: 5px;
+    height: 400px;
+}
+p{
+    color: grey;
+}
